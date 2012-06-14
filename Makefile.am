@@ -1,17 +1,11 @@
-SUBDIRS = src
+EXTRA_DIST=AUTHORS COPYING
 
-MAINTAINERCLEANFILES = \
-	Makefile.in \
-	aclocal.m4 \
-	config.guess \
-	config.h.in \
-	config.sub \
-	configure \
-	depcomp \
-	install-sh \
-	intltool-*.in \
-	libtool \
-	ltmain.sh \
-	missing \
-	mkinstalldirs
+dist-hook:
+	cp -raf matefaenza $(distdir)/matefaenza
 
+uninstall-hook:
+	rm -rf $(DESTDIR)$(datadir)/icons/matefaenza
+
+install-data-hook:
+	$(mkdir_p) $(DESTDIR)$(datadir)/icons
+	cp -raf --no-preserve=ownership matefaenza $(DESTDIR)$(datadir)/icons
