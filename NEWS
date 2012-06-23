@@ -1,0 +1,7 @@
+====23/06/2012====
+Started work on dark varient of MATE Faenza.
+Here comes some more headaches stefano-k.
+
+Renamed MATE Faenza to MATE-Faenza so MATE-Faenza-Dark can inherit it.
+added matefaenzadark folder and dark icons and index.theme
+--Rowen_Stipe
