@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=MATE-Faenza-Dark
-Inherits=MATE-Faenza
+Inherits=matefaenza
 Comment=Icon theme project with tilish style, by Tiheum
 Directories=actions/16,apps/16,categories/16,status/16,stock/16,actions/22,apps/22,catefories/22,status/22,stock/22,actions/24,apps/24,categories/24,status/24,stock/24,actions/32,apps/32,categories/32,status/32,stock/32,actions/48,apps/48,categories/48,status/48,stock/48,actions/64,apps/64,categories/64,status/64,stock/64,actions/96,apps/96,categories/96,status/96,stock/96,actions/scalable,apps/scalable,categories/scalable,status/scalable,stock/scalable
 
