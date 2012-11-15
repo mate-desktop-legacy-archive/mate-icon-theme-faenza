@@ -8,37 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="96"
    height="96"
-   id="svg2408"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="deja-dup.svg"
-   inkscape:export-filename="/home/rowen/MATE/Icon themes/sources/Faience-Ocre/apps/16/deja-dup.png"
-   inkscape:export-xdpi="15"
-   inkscape:export-ydpi="15">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="705"
-     inkscape:window-height="480"
-     id="namedview3175"
-     showgrid="false"
-     inkscape:zoom="1.7383042"
-     inkscape:cx="99.179752"
-     inkscape:cy="51.826958"
-     inkscape:window-x="7"
-     inkscape:window-y="137"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2408" />
+   id="svg2408">
   <defs
      id="defs2410">
     <linearGradient
@@ -324,6 +298,42 @@
          style="stop-color:#4d4d4d;stop-opacity:0.3137255"
          offset="1" />
     </linearGradient>
+    <radialGradient
+       cx="48"
+       cy="84"
+       r="30"
+       fx="48"
+       fy="84"
+       id="radialGradient4138"
+       xlink:href="#linearGradient3313"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0666667,0,0,0.04999999,-3.2000002,81.300245)" />
+    <linearGradient
+       id="linearGradient3313">
+      <stop
+         id="stop3315"
+         style="stop-color:#4dbeff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4186"
+         style="stop-color:#1379ff;stop-opacity:0.65040648"
+         offset="0.67213112" />
+      <stop
+         id="stop3317"
+         style="stop-color:#0066ff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <filter
+       x="-0.11444673"
+       y="-1.4149175"
+       width="1.2288935"
+       height="3.8298349"
+       color-interpolation-filters="sRGB"
+       id="filter4180">
+      <feGaussianBlur
+         id="feGaussianBlur4182"
+         stdDeviation="3.5372897" />
+    </filter>
     <clipPath
        id="clipPath3997">
       <path
@@ -352,38 +362,6 @@
        xlink:href="#linearGradient3767"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.94328559,0,-7.703464)" />
-    <filter
-       x="-0.11444673"
-       y="-1.4149175"
-       width="1.2288935"
-       height="3.8298349"
-       color-interpolation-filters="sRGB"
-       id="filter4180-0">
-      <feGaussianBlur
-         id="feGaussianBlur4182-9"
-         stdDeviation="3.5372897" />
-    </filter>
-    <radialGradient
-       cx="48"
-       cy="84"
-       r="30"
-       fx="48"
-       fy="84"
-       id="radialGradient4138-1"
-       xlink:href="#linearGradient3175-0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0666667,0,0,0.04999999,-3.2000002,81.300245)" />
-    <linearGradient
-       id="linearGradient3175-0">
-      <stop
-         id="stop3177-4"
-         style="stop-color:#7bff91;stop-opacity:1;"
-         offset="0" />
-      <stop
-         id="stop3179-8"
-         style="stop-color:#2ea041;stop-opacity:0;"
-         offset="1" />
-    </linearGradient>
   </defs>
   <metadata
      id="metadata2413">
@@ -393,7 +371,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -545,9 +523,9 @@
        ry="5.9999933"
        x="10.910714"
        y="80.000008"
-       transform="matrix(1,0,0,0.50000072,3.7194823e-8,44.000184)"
+       transform="matrix(1,0,0,0.50000072,0,44.000184)"
        id="rect3323"
-       style="opacity:0.59999999999999998;fill:#00aa1c;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;filter:url(#filter4180-0)" />
+       style="opacity:0.6;fill:#0066ff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;filter:url(#filter4180)" />
     <rect
        width="64"
        height="3"
@@ -556,7 +534,7 @@
        x="16"
        y="84.000244"
        id="rect3311"
-       style="fill:url(#radialGradient4138-1);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+       style="fill:url(#radialGradient4138);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
   </g>
   <g
      id="layer5"

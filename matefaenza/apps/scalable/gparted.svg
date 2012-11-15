@@ -298,6 +298,42 @@
          style="stop-color:#4d4d4d;stop-opacity:0.3137255"
          offset="1" />
     </linearGradient>
+    <radialGradient
+       cx="48"
+       cy="84"
+       r="30"
+       fx="48"
+       fy="84"
+       id="radialGradient4138"
+       xlink:href="#linearGradient3313"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0666667,0,0,0.04999999,-3.2000002,81.300245)" />
+    <linearGradient
+       id="linearGradient3313">
+      <stop
+         id="stop3315"
+         style="stop-color:#4dbeff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4186"
+         style="stop-color:#1379ff;stop-opacity:0.65040648"
+         offset="0.67213112" />
+      <stop
+         id="stop3317"
+         style="stop-color:#0066ff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <filter
+       x="-0.11444673"
+       y="-1.4149175"
+       width="1.2288935"
+       height="3.8298349"
+       color-interpolation-filters="sRGB"
+       id="filter4180">
+      <feGaussianBlur
+         id="feGaussianBlur4182"
+         stdDeviation="3.5372897" />
+    </filter>
     <linearGradient
        id="linearGradient3220-3">
       <stop
@@ -460,38 +496,6 @@
        id="linearGradient4053"
        xlink:href="#linearGradient3767"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       x="-0.11444673"
-       y="-1.4149175"
-       width="1.2288935"
-       height="3.8298349"
-       color-interpolation-filters="sRGB"
-       id="filter4180-0">
-      <feGaussianBlur
-         id="feGaussianBlur4182-9"
-         stdDeviation="3.5372897" />
-    </filter>
-    <radialGradient
-       cx="48"
-       cy="84"
-       r="30"
-       fx="48"
-       fy="84"
-       id="radialGradient4138-1"
-       xlink:href="#linearGradient3175-0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0666667,0,0,0.04999999,-3.2000002,81.300245)" />
-    <linearGradient
-       id="linearGradient3175-0">
-      <stop
-         id="stop3177-4"
-         style="stop-color:#ff7bd8;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3179-8"
-         style="stop-color:#992ea0;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
   </defs>
   <metadata
      id="metadata2413">
@@ -653,9 +657,9 @@
        ry="5.9999933"
        x="10.910714"
        y="80.000008"
-       transform="matrix(1,0,0,0.50000072,3.7194823e-8,44.000184)"
+       transform="matrix(1,0,0,0.50000072,0,44.000184)"
        id="rect3323"
-       style="opacity:0.6;fill:#8800aa;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;filter:url(#filter4180-0)" />
+       style="opacity:0.6;fill:#0066ff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;filter:url(#filter4180)" />
     <rect
        width="64"
        height="3"
@@ -664,7 +668,7 @@
        x="16"
        y="84.000244"
        id="rect3311"
-       style="fill:url(#radialGradient4138-1);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+       style="fill:url(#radialGradient4138);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
   </g>
   <g
      id="layer5"
