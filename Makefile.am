@@ -1,4 +1,4 @@
-EXTRA_DIST=AUTHORS COPYING
+EXTRA_DIST=autogen.sh AUTHORS COPYING
 
 dist-hook:
 	cp -raf matefaenza $(distdir)/matefaenza
