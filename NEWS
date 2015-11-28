@@ -1,3 +1,10 @@
+1.10.1
+------
+- Updated all haguichi icons to use the new logo
+- Removed duplicate icons in matefaenzagray,
+- replaced by inheritance from matefaenzadark
+- plus actions folder symlink to matefaenza/actions.
+
 1.10.0
 ------
 - create tarball without make dist to avoid symlink issue
