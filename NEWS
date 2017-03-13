@@ -1,34 +1,27 @@
-1.16.0
-------
+### mate-icon-theme-faenza 1.18.0
 
-Added link to spotify icon
+  * Bump version
 
-1.14.0
-------
+### mate-icon-theme-faenza 1.16.0
 
-bump version
+  * Added link to spotify icon
 
-1.13.0
-------
+### mate-icon-theme-faenza 1.14.0
 
-bump version
+  * Bump version
 
-1.12.0
-------
+### mate-icon-theme-faenza 1.12.0
 
-Removed duplicate icons in matefaenzagray
+  * Removed duplicate icons in matefaenzagray
 
-1.10.0
-------
-- create tarball without make dist to avoid symlink issue
+### mate-icon-theme-faenza 1.10.0
+  
+  * Create tarball without make dist to avoid symlink issue
 
-====01/11/2012====
-+Created Mate-Faena-Gray that mixes some MATE-Faenza and MATE-Faenza-Dark icons
-+Added in Faenza 1.3 icons that were not in the 1.2 base icon set
-====23/06/2012====
-Started work on dark varient of MATE Faenza.
-Here comes some more headaches stefano-k.
+### mate-icon-theme-faenza 1.8 and earlier
 
-Renamed MATE Faenza to MATE-Faenza so MATE-Faenza-Dark can inherit it.
-added matefaenzadark folder and dark icons and index.theme
---Rowen_Stipe
+  * Created Mate-Faena-Gray that mixes some MATE-Faenza and MATE-Faenza-Dark icons
+  * Added in Faenza 1.3 icons that were not in the 1.2 base icon set
+  * Started work on dark varient of MATE Faenza.
+  * Renamed MATE Faenza to MATE-Faenza so MATE-Faenza-Dark can inherit it.
+  * Added matefaenzadark folder and dark icons and index.theme
