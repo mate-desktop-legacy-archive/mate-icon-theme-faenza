@@ -1,5 +1,7 @@
 ### mate-icon-theme-faenza 1.19.0
 
+  * Fix to use MATE logo for dark theme
+
 ### mate-icon-theme-faenza 1.18.0
 
   * Bump version
